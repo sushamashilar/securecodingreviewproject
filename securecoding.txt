@@ -1,0 +1,7 @@
+RUN THE COMMANDS ON THE TERMINAL TO GET RESULTS:-
+
+echo $env:APP_USERNAME
+echo $env:APP_PASSWORD
+
+
+python secure_coding_review.py
